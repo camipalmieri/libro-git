@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 holaaaa
+=======
+chauuuuuu
+>>>>>>> 9d4333ef264610938857519fdbbd4e43746e2ee7
